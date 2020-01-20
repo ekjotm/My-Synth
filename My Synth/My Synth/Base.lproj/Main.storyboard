@@ -84,6 +84,62 @@
                                     <action selector="B1ButtonUp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0fC-Lc-kCp"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gfc-YT-yYc" userLabel="C2 Button">
+                                <rect key="frame" x="448" y="70" width="56" height="273"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="C2Button:" destination="BYZ-38-t0r" eventType="touchDown" id="BsC-XH-2MD"/>
+                                    <action selector="C2ButtonUp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="68r-fp-L6e"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3e0-gb-SKT" userLabel="D2 Button">
+                                <rect key="frame" x="503" y="70" width="56" height="273"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="D2Button:" destination="BYZ-38-t0r" eventType="touchDown" id="tuE-8F-SIR"/>
+                                    <action selector="D2ButtonUp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="tr9-ck-wFZ"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xH4-4b-Pe0" userLabel="E2 Button">
+                                <rect key="frame" x="558" y="70" width="56" height="273"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="E2Button:" destination="BYZ-38-t0r" eventType="touchDown" id="wz6-Gj-79n"/>
+                                    <action selector="E2ButtonUp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="KaD-0j-qWy"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PBc-hI-iD8" userLabel="F2 Button">
+                                <rect key="frame" x="614" y="70" width="56" height="273"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="F2Button:" destination="BYZ-38-t0r" eventType="touchDown" id="bDK-yd-oh0"/>
+                                    <action selector="F2ButtonUp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="C4u-Ra-aff"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zn3-vc-Wj2" userLabel="G2 Button">
+                                <rect key="frame" x="669" y="70" width="56" height="273"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="G2Button:" destination="BYZ-38-t0r" eventType="touchDown" id="diU-FR-6vF"/>
+                                    <action selector="G2ButtonUp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yQV-dH-d99"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xYm-HT-aNS" userLabel="A2 Button">
+                                <rect key="frame" x="725" y="70" width="56" height="273"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="A2Button:" destination="BYZ-38-t0r" eventType="touchDown" id="yvk-LS-sa2"/>
+                                    <action selector="A2ButtonUp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qIp-YL-NDK"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lCf-fa-aXG" userLabel="B2 Button">
+                                <rect key="frame" x="780" y="70" width="56" height="273"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="B2Button:" destination="BYZ-38-t0r" eventType="touchDown" id="nsc-gt-Trs"/>
+                                    <action selector="B2ButtonUp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="DhA-9X-Ddp"/>
+                                </connections>
+                            </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cuA-GV-x9D" userLabel="c1 Button">
                                 <rect key="frame" x="96" y="70" width="40" height="204"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -122,6 +178,46 @@
                                 <connections>
                                     <action selector="a1Button:" destination="BYZ-38-t0r" eventType="touchDown" id="pC6-dC-I28"/>
                                     <action selector="a1ButtonUp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5UF-XQ-Sfg"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DAO-WM-hlf" userLabel="c2 Button">
+                                <rect key="frame" x="483" y="70" width="40" height="204"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="c2Button:" destination="BYZ-38-t0r" eventType="touchDown" id="e0i-UZ-XuA"/>
+                                    <action selector="c2ButtonUp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Fgg-h0-jOO"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="78j-kV-WcU" userLabel="d2 Button">
+                                <rect key="frame" x="539" y="70" width="40" height="204"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="d2Button:" destination="BYZ-38-t0r" eventType="touchDown" id="Y9f-bc-9bw"/>
+                                    <action selector="d2ButtonUp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="NZP-yc-2gE"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="C4v-G2-kBp" userLabel="f2 Button">
+                                <rect key="frame" x="649" y="70" width="40" height="204"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="f2Button:" destination="BYZ-38-t0r" eventType="touchDown" id="zDi-n2-zTW"/>
+                                    <action selector="f2ButtonUp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Aoa-Dx-Hv1"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KMN-xc-J6p" userLabel="g2 Button">
+                                <rect key="frame" x="705" y="70" width="40" height="204"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="g2Button:" destination="BYZ-38-t0r" eventType="touchDown" id="qMX-wf-bcg"/>
+                                    <action selector="g2ButtonUp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gh9-cC-TxU"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SLs-VO-5ir" userLabel="a2 Button">
+                                <rect key="frame" x="760" y="70" width="40" height="204"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="a2Button:" destination="BYZ-38-t0r" eventType="touchDown" id="AKi-wy-xgr"/>
+                                    <action selector="a2ButtonUp:" destination="BYZ-38-t0r" eventType="touchUpInside" id="NjH-4J-Sid"/>
                                 </connections>
                             </button>
                         </subviews>
